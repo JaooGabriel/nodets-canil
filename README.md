@@ -1,3 +1,13 @@
-# Esse é o meu primeiro projeto de NodeJS
+# nodets-canil
+Projeto de canil
 
-Branch nova
+
+### Pré-requisitos globais:
+'npm i -g nodemon typescript ts-node'
+
+### Instalação:
+'npm install'
+
+### Para rodar o projeto:
+
+'npm run start-dev'
